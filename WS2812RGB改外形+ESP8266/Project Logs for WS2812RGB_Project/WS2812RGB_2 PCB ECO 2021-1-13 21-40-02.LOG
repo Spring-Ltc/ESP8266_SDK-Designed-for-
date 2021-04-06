@@ -1,0 +1,13 @@
+Removed Pin From Net: NetName=VCC_3.3V Pin=C35-1
+Removed Pin From Net: NetName=GND Pin=C35-2
+Removed Member From Class: ClassName=WS2812RGB Member=C41
+Change Component Designator: OldDesignator=C36 NewDesignator=C35
+Change Component Designator: OldDesignator=C37 NewDesignator=C36
+Change Component Designator: OldDesignator=C38 NewDesignator=C37
+Change Component Designator: OldDesignator=C39 NewDesignator=C38
+Change Component Designator: OldDesignator=C40 NewDesignator=C39
+Change Component Designator: OldDesignator=C41 NewDesignator=C40
+Change Net Name : Old Net Name=NetC37_1 New Net Name=NetC36_1
+Change Net Name : Old Net Name=NetC38_2 New Net Name=NetC37_2
+Change Net Name : Old Net Name=NetC39_1 New Net Name=NetC38_1
+Change Net Name : Old Net Name=NetC40_1 New Net Name=NetC39_1

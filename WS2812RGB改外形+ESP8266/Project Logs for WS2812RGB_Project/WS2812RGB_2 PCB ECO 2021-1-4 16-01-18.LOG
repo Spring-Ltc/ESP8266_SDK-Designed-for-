@@ -1,0 +1,94 @@
+Removed Pin From Net: NetName=DIN_2 Pin=LED6-4
+Removed Pin From Net: NetName=DIN_3 Pin=LED11-4
+Removed Pin From Net: NetName=DIN_4 Pin=LED16-4
+Removed Pin From Net: NetName=DIN_5 Pin=LED21-4
+Removed Pin From Net: NetName=DIN_6 Pin=LED26-4
+Removed Pin From Net: NetName=NetLED31_2 Pin=LED31-2
+Removed Pin From Net: NetName=NetLED31_2 Pin=LED32-4
+Change Component Designator: OldDesignator=LED1 NewDesignator=LED2
+Change Component Designator: OldDesignator=LED2 NewDesignator=LED3
+Change Component Designator: OldDesignator=LED3 NewDesignator=LED4
+Change Component Designator: OldDesignator=LED4 NewDesignator=LED5
+Change Component Designator: OldDesignator=LED5 NewDesignator=LED6
+Change Component Designator: OldDesignator=LED6 NewDesignator=LED8
+Change Component Designator: OldDesignator=LED7 NewDesignator=LED9
+Change Component Designator: OldDesignator=LED8 NewDesignator=LED10
+Change Component Designator: OldDesignator=LED9 NewDesignator=LED11
+Change Component Designator: OldDesignator=LED10 NewDesignator=LED12
+Change Component Designator: OldDesignator=LED11 NewDesignator=LED14
+Change Component Designator: OldDesignator=LED12 NewDesignator=LED15
+Change Component Designator: OldDesignator=LED13 NewDesignator=LED16
+Change Component Designator: OldDesignator=LED14 NewDesignator=LED17
+Change Component Designator: OldDesignator=LED15 NewDesignator=LED18
+Change Component Designator: OldDesignator=LED16 NewDesignator=LED20
+Change Component Designator: OldDesignator=LED17 NewDesignator=LED21
+Change Component Designator: OldDesignator=LED18 NewDesignator=LED22
+Change Component Designator: OldDesignator=LED19 NewDesignator=LED23
+Change Component Designator: OldDesignator=LED20 NewDesignator=LED24
+Change Component Designator: OldDesignator=LED21 NewDesignator=LED26
+Change Component Designator: OldDesignator=LED22 NewDesignator=LED27
+Change Component Designator: OldDesignator=LED23 NewDesignator=LED28
+Change Component Designator: OldDesignator=LED24 NewDesignator=LED29
+Change Component Designator: OldDesignator=LED25 NewDesignator=LED30
+Change Component Designator: OldDesignator=LED26 NewDesignator=LED32
+Change Component Designator: OldDesignator=LED27 NewDesignator=LED33
+Change Component Designator: OldDesignator=LED28 NewDesignator=LED34
+Change Component Designator: OldDesignator=LED29 NewDesignator=LED35
+Change Component Designator: OldDesignator=LED30 NewDesignator=LED36
+Change Component Designator: OldDesignator=LED31 NewDesignator=LED1
+Change Component Designator: OldDesignator=LED32 NewDesignator=LED31
+Change Component Designator: OldDesignator=LED33 NewDesignator=LED25
+Change Component Designator: OldDesignator=LED34 NewDesignator=LED19
+Change Component Designator: OldDesignator=LED35 NewDesignator=LED13
+Change Component Designator: OldDesignator=LED36 NewDesignator=LED7
+Added Pin To Net: NetName=DIN_2 Pin=LED7-4
+Added Pin To Net: NetName=DIN_3 Pin=LED13-4
+Added Pin To Net: NetName=DIN_4 Pin=LED19-4
+Added Pin To Net: NetName=DIN_5 Pin=LED25-4
+Added Pin To Net: NetName=NetLED31_2 Pin=LED31-2
+Added Pin To Net: NetName=DIN_6 Pin=LED31-4
+Added Pin To Net: NetName=NetLED31_2 Pin=LED32-4
+Change Net Name : Old Net Name=DIN_7 New Net Name=DIN_1
+Change Net Name : Old Net Name=NetLED1_2 New Net Name=NetLED2_2
+Change Net Name : Old Net Name=NetLED2_2 New Net Name=NetLED3_2
+Change Net Name : Old Net Name=NetLED3_2 New Net Name=NetLED4_2
+Change Net Name : Old Net Name=NetLED4_2 New Net Name=NetLED5_2
+Change Net Name : Old Net Name=NetLED6_2 New Net Name=NetLED8_2
+Change Net Name : Old Net Name=NetLED7_2 New Net Name=NetLED9_2
+Change Net Name : Old Net Name=NetLED8_2 New Net Name=NetLED10_2
+Change Net Name : Old Net Name=NetLED9_2 New Net Name=NetLED11_2
+Change Net Name : Old Net Name=NetLED11_2 New Net Name=NetLED14_2
+Change Net Name : Old Net Name=NetLED12_2 New Net Name=NetLED15_2
+Change Net Name : Old Net Name=NetLED13_2 New Net Name=NetLED16_2
+Change Net Name : Old Net Name=NetLED14_2 New Net Name=NetLED17_2
+Change Net Name : Old Net Name=NetLED16_2 New Net Name=NetLED20_2
+Change Net Name : Old Net Name=NetLED17_2 New Net Name=NetLED21_2
+Change Net Name : Old Net Name=NetLED18_2 New Net Name=NetLED22_2
+Change Net Name : Old Net Name=NetLED19_2 New Net Name=NetLED23_2
+Change Net Name : Old Net Name=NetLED21_2 New Net Name=NetLED26_2
+Change Net Name : Old Net Name=NetLED22_2 New Net Name=NetLED27_2
+Change Net Name : Old Net Name=NetLED23_2 New Net Name=NetLED28_2
+Change Net Name : Old Net Name=NetLED24_2 New Net Name=NetLED29_2
+Change Net Name : Old Net Name=NetLED26_2 New Net Name=NetLED32_2
+Change Net Name : Old Net Name=NetLED27_2 New Net Name=NetLED33_2
+Change Net Name : Old Net Name=NetLED28_2 New Net Name=NetLED34_2
+Change Net Name : Old Net Name=NetLED29_2 New Net Name=NetLED35_2
+Added Pin To Net: NetName=NetLED1_2 Pin=LED1-2
+Added Pin To Net: NetName=NetLED1_2 Pin=LED2-4
+Added Net: Name=NetLED1_2
+Added Pin To Net: NetName=NetLED7_2 Pin=LED7-2
+Added Pin To Net: NetName=NetLED7_2 Pin=LED8-4
+Added Net: Name=NetLED7_2
+Added Pin To Net: NetName=NetLED13_2 Pin=LED13-2
+Added Pin To Net: NetName=NetLED13_2 Pin=LED14-4
+Added Net: Name=NetLED13_2
+Added Pin To Net: NetName=NetLED19_2 Pin=LED19-2
+Added Pin To Net: NetName=NetLED19_2 Pin=LED20-4
+Added Net: Name=NetLED19_2
+Added Pin To Net: NetName=NetLED25_2 Pin=LED25-2
+Added Pin To Net: NetName=NetLED25_2 Pin=LED26-4
+Added Net: Name=NetLED25_2
+Added Member To Class: ClassName=WS2812RGB Member=Component C31 104
+Added Member To Class: ClassName=WS2812RGB Member=Component C32 106
+Added Member To Class: ClassName=WS2812RGB Member=Component C33 104
+Added Member To Class: ClassName=WS2812RGB Member=Component U1 SGM2028-3.3YN5G/TR

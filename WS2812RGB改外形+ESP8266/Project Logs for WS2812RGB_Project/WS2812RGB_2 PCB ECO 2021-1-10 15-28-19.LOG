@@ -1,0 +1,33 @@
+Change Component Designator: OldDesignator=LED25 NewDesignator=LED30
+Change Component Designator: OldDesignator=LED26 NewDesignator=LED25
+Change Component Designator: OldDesignator=LED27 NewDesignator=LED26
+Change Component Designator: OldDesignator=LED28 NewDesignator=LED27
+Change Component Designator: OldDesignator=LED29 NewDesignator=LED28
+Change Component Designator: OldDesignator=LED30 NewDesignator=LED29
+Added Component: Designator=C31(CAP_0805)
+Added Component: Designator=C32(CAP_0603)
+Added Component: Designator=C33(CAP_0603)
+Added Component: Designator=U1(WIFIM-SMD_ESP-12F-ESP8266MOD)
+Added Component: Designator=U2(SOT23_5)
+Added Pin To Net: NetName=VCC Pin=C31-1
+Added Pin To Net: NetName=GND Pin=C31-2
+Added Pin To Net: NetName=NetC32_1 Pin=C32-1
+Added Pin To Net: NetName=GND Pin=C32-2
+Added Pin To Net: NetName=VCC_3.3V Pin=C33-1
+Added Pin To Net: NetName=GND Pin=C33-2
+Added Pin To Net: NetName=VCC Pin=U2-1
+Added Pin To Net: NetName=GND Pin=U2-2
+Added Pin To Net: NetName=VCC Pin=U2-3
+Added Pin To Net: NetName=NetC32_1 Pin=U2-4
+Added Pin To Net: NetName=VCC_3.3V Pin=U2-5
+Change Net Name : Old Net Name=NetLED25_2 New Net Name=NetLED25_4
+Change Net Name : Old Net Name=NetLED26_2 New Net Name=NetLED25_2
+Change Net Name : Old Net Name=NetLED27_2 New Net Name=NetLED26_2
+Change Net Name : Old Net Name=NetLED28_2 New Net Name=NetLED27_2
+Change Net Name : Old Net Name=NetLED29_2 New Net Name=NetLED28_2
+Added Member To Class: ClassName=WS2812RGB Member=Component C31 104
+Added Member To Class: ClassName=WS2812RGB Member=Component C32 106
+Added Member To Class: ClassName=WS2812RGB Member=Component C33 104
+Added Member To Class: ClassName=WS2812RGB Member=Component U1 ESP-12F(ESP8266MOD)
+Added Member To Class: ClassName=WS2812RGB Member=Component U2 SGM2028-3.3YN5G/TR
+Added Room: Name=WS2812RGB

@@ -1,0 +1,20 @@
+Removed Pin From Net: NetName=GND Pin=LED31-3
+Removed Pin From Net: NetName=GND Pin=LED32-3
+Removed Pin From Net: NetName=VBUS Pin=LED33-1
+Removed Pin From Net: NetName=NetLED33_2 Pin=LED33-2
+Removed Pin From Net: NetName=GND Pin=LED33-3
+Removed Pin From Net: NetName=NetLED32_2 Pin=LED33-4
+Removed Pin From Net: NetName=GND Pin=LED34-3
+Removed Pin From Net: NetName=GND Pin=LED35-3
+Removed Pin From Net: NetName=GND Pin=LED36-3
+Removed Pin From Net: NetName=NetLED35_2 Pin=LED36-4
+Change Component Designator: OldDesignator=LED33 NewDesignator=LED36
+Change Component Designator: OldDesignator=LED36 NewDesignator=LED33
+Added Pin To Net: NetName=NetLED33_2 Pin=LED33-2
+Added Pin To Net: NetName=NetLED32_2 Pin=LED33-4
+Added Pin To Net: NetName=NetLED35_2 Pin=LED36-4
+Added Pin To Net: NetName=NetLED31_3 Pin=LED31-3
+Added Pin To Net: NetName=NetLED31_3 Pin=LED32-3
+Added Pin To Net: NetName=NetLED31_3 Pin=LED34-3
+Added Pin To Net: NetName=NetLED31_3 Pin=LED35-3
+Added Net: Name=NetLED31_3

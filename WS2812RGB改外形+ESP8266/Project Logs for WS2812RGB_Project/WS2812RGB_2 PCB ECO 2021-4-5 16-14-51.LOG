@@ -1,0 +1,2 @@
+Removed Pin From Net: NetName=VCC_3.3V Pin=LED37-1
+Added Pin To Net: NetName=VCC Pin=LED37-1

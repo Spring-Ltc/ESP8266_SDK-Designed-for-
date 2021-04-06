@@ -1,0 +1,12 @@
+Added Pin To Net: NetName=NetLED32_2 Pin=LED32-2
+Added Pin To Net: NetName=NetLED32_2 Pin=LED33-4
+Added Net: Name=NetLED32_2
+Added Pin To Net: NetName=NetLED33_2 Pin=LED33-2
+Added Pin To Net: NetName=NetLED33_2 Pin=LED34-4
+Added Net: Name=NetLED33_2
+Added Pin To Net: NetName=NetLED34_2 Pin=LED34-2
+Added Pin To Net: NetName=NetLED34_2 Pin=LED35-4
+Added Net: Name=NetLED34_2
+Added Pin To Net: NetName=NetLED35_2 Pin=LED35-2
+Added Pin To Net: NetName=NetLED35_2 Pin=LED36-4
+Added Net: Name=NetLED35_2

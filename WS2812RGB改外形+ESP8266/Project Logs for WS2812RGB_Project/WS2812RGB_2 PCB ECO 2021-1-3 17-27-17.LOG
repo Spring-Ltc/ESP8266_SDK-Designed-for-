@@ -1,0 +1,4 @@
+Added Pin To Net: NetName=VCC Pin=F1-1
+Added Pin To Net: NetName=VCC Pin=USB1-A9
+Added Pin To Net: NetName=VCC Pin=USB1-B9
+Change Net Name : Old Net Name=VCC New Net Name=VBUS

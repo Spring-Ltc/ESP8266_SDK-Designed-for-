@@ -1,0 +1,12 @@
+Added Pin To Net: NetName=DIN_6 Pin=U1-6
+Added Pin To Net: NetName=KEY1 Pin=U1-7
+Added Pin To Net: NetName=DIN_1 Pin=U1-9
+Added Pin To Net: NetName=DIN_2 Pin=U1-10
+Added Pin To Net: NetName=ADC_VOICE Pin=U1-11
+Added Pin To Net: NetName=DIN_3 Pin=U1-12
+Added Pin To Net: NetName=DIN_4 Pin=U1-14
+Added Pin To Net: NetName=KEY2 Pin=U1-17
+Added Pin To Net: NetName=DIN_5 Pin=U1-18
+Added Pin To Net: NetName=DIN_7 Pin=LED37-4
+Added Pin To Net: NetName=DIN_7 Pin=U1-13
+Added Net: Name=DIN_7

@@ -1,0 +1,16 @@
+Removed Pin From Net: NetName=DIN Pin=U1-13
+Added Component: Designator=C32(CAP_0805)
+Added Component: Designator=D1(LED_0603_B)
+Added Component: Designator=R8(RES_0402)
+Added Pin To Net: NetName=VCC Pin=C32-1
+Added Pin To Net: NetName=GND Pin=C32-2
+Added Pin To Net: NetName=NetD1_A Pin=D1-A
+Added Pin To Net: NetName=GND Pin=D1-C
+Added Pin To Net: NetName=VCC_3.3V Pin=R8-1
+Added Pin To Net: NetName=NetD1_A Pin=R8-2
+Added Pin To Net: NetName=KEY3 Pin=U1-5
+Added Pin To Net: NetName=DIN Pin=U1-6
+Added Pin To Net: NetName=KEY2 Pin=U1-7
+Added Member To Class: ClassName=WS2812RGB Member=Component C32 1uF
+Added Member To Class: ClassName=WS2812RGB Member=Component D1 LED
+Added Member To Class: ClassName=WS2812RGB Member=Component R8 4.7k

@@ -1,0 +1,12 @@
+Change Component Designator: OldDesignator=30 NewDesignator=LED27
+Added Pin To Net: NetName=VCC Pin=C44-1
+Added Pin To Net: NetName=VCC Pin=F1-2
+Added Pin To Net: NetName=VCC Pin=U2-1
+Added Pin To Net: NetName=VCC Pin=U2-3
+Added Member To Class: ClassName=WS2812RGB Member=Component C29 104
+Added Member To Class: ClassName=WS2812RGB Member=Component C31 104
+Added Member To Class: ClassName=WS2812RGB Member=Component C34 104
+Added Member To Class: ClassName=WS2812RGB Member=Component C38 22p
+Added Member To Class: ClassName=WS2812RGB Member=Component C42 104
+Added Member To Class: ClassName=WS2812RGB Member=Component C43 1uF
+Added Member To Class: ClassName=WS2812RGB Member=Component C46 104

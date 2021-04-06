@@ -1,0 +1,212 @@
+Added Component: Designator=LED1(LED_5050-SMD_4P-WS2812)
+Added Component: Designator=LED2(LED_5050-SMD_4P-WS2812)
+Added Component: Designator=LED3(LED_5050-SMD_4P-WS2812)
+Added Component: Designator=LED4(LED_5050-SMD_4P-WS2812)
+Added Component: Designator=LED5(LED_5050-SMD_4P-WS2812)
+Added Component: Designator=LED6(LED_5050-SMD_4P-WS2812)
+Added Component: Designator=LED7(LED_5050-SMD_4P-WS2812)
+Added Component: Designator=LED8(LED_5050-SMD_4P-WS2812)
+Added Component: Designator=LED9(LED_5050-SMD_4P-WS2812)
+Added Component: Designator=LED10(LED_5050-SMD_4P-WS2812)
+Added Component: Designator=LED11(LED_5050-SMD_4P-WS2812)
+Added Component: Designator=LED12(LED_5050-SMD_4P-WS2812)
+Added Component: Designator=LED13(LED_5050-SMD_4P-WS2812)
+Added Component: Designator=LED14(LED_5050-SMD_4P-WS2812)
+Added Component: Designator=LED15(LED_5050-SMD_4P-WS2812)
+Added Component: Designator=LED16(LED_5050-SMD_4P-WS2812)
+Added Component: Designator=LED17(LED_5050-SMD_4P-WS2812)
+Added Component: Designator=LED18(LED_5050-SMD_4P-WS2812)
+Added Component: Designator=LED19(LED_5050-SMD_4P-WS2812)
+Added Component: Designator=LED20(LED_5050-SMD_4P-WS2812)
+Added Component: Designator=LED21(LED_5050-SMD_4P-WS2812)
+Added Component: Designator=LED22(LED_5050-SMD_4P-WS2812)
+Added Component: Designator=LED23(LED_5050-SMD_4P-WS2812)
+Added Component: Designator=LED24(LED_5050-SMD_4P-WS2812)
+Added Component: Designator=LED25(LED_5050-SMD_4P-WS2812)
+Added Component: Designator=LED26(LED_5050-SMD_4P-WS2812)
+Added Component: Designator=LED27(LED_5050-SMD_4P-WS2812)
+Added Component: Designator=LED28(LED_5050-SMD_4P-WS2812)
+Added Component: Designator=LED29(LED_5050-SMD_4P-WS2812)
+Added Component: Designator=LED30(LED_5050-SMD_4P-WS2812)
+Added Component: Designator=LED31(LED_5050-SMD_4P-WS2812)
+Added Component: Designator=LED32(LED_5050-SMD_4P-WS2812)
+Added Component: Designator=LED33(LED_5050-SMD_4P-WS2812)
+Added Component: Designator=LED34(LED_5050-SMD_4P-WS2812)
+Added Component: Designator=LED35(LED_5050-SMD_4P-WS2812)
+Added Component: Designator=LED36(LED_5050-SMD_4P-WS2812)
+Added Component: Designator=LED37(LED_5050-SMD_4P-WS2812)
+Added Pin To Net: NetName=DIN1 Pin=LED1-4
+Added Net: Name=DIN1
+Added Pin To Net: NetName=DIN2 Pin=LED6-4
+Added Pin To Net: NetName=DIN2 Pin=LED11-4
+Added Pin To Net: NetName=DIN2 Pin=LED21-4
+Added Pin To Net: NetName=DIN2 Pin=LED31-4
+Added Net: Name=DIN2
+Added Pin To Net: NetName=DIN3 Pin=LED16-4
+Added Pin To Net: NetName=DIN3 Pin=LED26-4
+Added Net: Name=DIN3
+Added Pin To Net: NetName=GND Pin=LED1-3
+Added Pin To Net: NetName=GND Pin=LED2-3
+Added Pin To Net: NetName=GND Pin=LED3-3
+Added Pin To Net: NetName=GND Pin=LED4-3
+Added Pin To Net: NetName=GND Pin=LED5-3
+Added Pin To Net: NetName=GND Pin=LED6-3
+Added Pin To Net: NetName=GND Pin=LED7-3
+Added Pin To Net: NetName=GND Pin=LED8-3
+Added Pin To Net: NetName=GND Pin=LED9-3
+Added Pin To Net: NetName=GND Pin=LED10-3
+Added Pin To Net: NetName=GND Pin=LED11-3
+Added Pin To Net: NetName=GND Pin=LED12-3
+Added Pin To Net: NetName=GND Pin=LED13-3
+Added Pin To Net: NetName=GND Pin=LED14-3
+Added Pin To Net: NetName=GND Pin=LED15-3
+Added Pin To Net: NetName=GND Pin=LED16-3
+Added Pin To Net: NetName=GND Pin=LED17-3
+Added Pin To Net: NetName=GND Pin=LED18-3
+Added Pin To Net: NetName=GND Pin=LED19-3
+Added Pin To Net: NetName=GND Pin=LED20-3
+Added Pin To Net: NetName=GND Pin=LED21-3
+Added Pin To Net: NetName=GND Pin=LED22-3
+Added Pin To Net: NetName=GND Pin=LED23-3
+Added Pin To Net: NetName=GND Pin=LED24-3
+Added Pin To Net: NetName=GND Pin=LED25-3
+Added Pin To Net: NetName=GND Pin=LED26-3
+Added Pin To Net: NetName=GND Pin=LED27-3
+Added Pin To Net: NetName=GND Pin=LED28-3
+Added Pin To Net: NetName=GND Pin=LED29-3
+Added Pin To Net: NetName=GND Pin=LED30-3
+Added Pin To Net: NetName=GND Pin=LED31-3
+Added Pin To Net: NetName=GND Pin=LED32-3
+Added Pin To Net: NetName=GND Pin=LED33-3
+Added Pin To Net: NetName=GND Pin=LED34-3
+Added Pin To Net: NetName=GND Pin=LED35-3
+Added Pin To Net: NetName=GND Pin=LED36-3
+Added Pin To Net: NetName=GND Pin=LED37-3
+Added Net: Name=GND
+Added Pin To Net: NetName=NetLED1_2 Pin=LED1-2
+Added Pin To Net: NetName=NetLED1_2 Pin=LED4-4
+Added Net: Name=NetLED1_2
+Added Pin To Net: NetName=NetLED2_2 Pin=LED2-2
+Added Pin To Net: NetName=NetLED2_2 Pin=LED5-4
+Added Net: Name=NetLED2_2
+Added Pin To Net: NetName=NetLED2_4 Pin=LED2-4
+Added Pin To Net: NetName=NetLED2_4 Pin=LED4-2
+Added Net: Name=NetLED2_4
+Added Pin To Net: NetName=NetLED3_4 Pin=LED3-4
+Added Pin To Net: NetName=NetLED3_4 Pin=LED5-2
+Added Net: Name=NetLED3_4
+Added Pin To Net: NetName=NetLED6_2 Pin=LED6-2
+Added Pin To Net: NetName=NetLED6_2 Pin=LED9-4
+Added Net: Name=NetLED6_2
+Added Pin To Net: NetName=NetLED7_2 Pin=LED7-2
+Added Pin To Net: NetName=NetLED7_2 Pin=LED10-4
+Added Net: Name=NetLED7_2
+Added Pin To Net: NetName=NetLED7_4 Pin=LED7-4
+Added Pin To Net: NetName=NetLED7_4 Pin=LED9-2
+Added Net: Name=NetLED7_4
+Added Pin To Net: NetName=NetLED8_4 Pin=LED8-4
+Added Pin To Net: NetName=NetLED8_4 Pin=LED10-2
+Added Net: Name=NetLED8_4
+Added Pin To Net: NetName=NetLED11_2 Pin=LED11-2
+Added Pin To Net: NetName=NetLED11_2 Pin=LED14-4
+Added Net: Name=NetLED11_2
+Added Pin To Net: NetName=NetLED12_2 Pin=LED12-2
+Added Pin To Net: NetName=NetLED12_2 Pin=LED15-4
+Added Net: Name=NetLED12_2
+Added Pin To Net: NetName=NetLED12_4 Pin=LED12-4
+Added Pin To Net: NetName=NetLED12_4 Pin=LED14-2
+Added Net: Name=NetLED12_4
+Added Pin To Net: NetName=NetLED13_4 Pin=LED13-4
+Added Pin To Net: NetName=NetLED13_4 Pin=LED15-2
+Added Net: Name=NetLED13_4
+Added Pin To Net: NetName=NetLED16_2 Pin=LED16-2
+Added Pin To Net: NetName=NetLED16_2 Pin=LED19-4
+Added Net: Name=NetLED16_2
+Added Pin To Net: NetName=NetLED17_2 Pin=LED17-2
+Added Pin To Net: NetName=NetLED17_2 Pin=LED20-4
+Added Net: Name=NetLED17_2
+Added Pin To Net: NetName=NetLED17_4 Pin=LED17-4
+Added Pin To Net: NetName=NetLED17_4 Pin=LED19-2
+Added Net: Name=NetLED17_4
+Added Pin To Net: NetName=NetLED18_4 Pin=LED18-4
+Added Pin To Net: NetName=NetLED18_4 Pin=LED20-2
+Added Net: Name=NetLED18_4
+Added Pin To Net: NetName=NetLED21_2 Pin=LED21-2
+Added Pin To Net: NetName=NetLED21_2 Pin=LED24-4
+Added Net: Name=NetLED21_2
+Added Pin To Net: NetName=NetLED22_2 Pin=LED22-2
+Added Pin To Net: NetName=NetLED22_2 Pin=LED25-4
+Added Net: Name=NetLED22_2
+Added Pin To Net: NetName=NetLED22_4 Pin=LED22-4
+Added Pin To Net: NetName=NetLED22_4 Pin=LED24-2
+Added Net: Name=NetLED22_4
+Added Pin To Net: NetName=NetLED23_4 Pin=LED23-4
+Added Pin To Net: NetName=NetLED23_4 Pin=LED25-2
+Added Net: Name=NetLED23_4
+Added Pin To Net: NetName=NetLED26_2 Pin=LED26-2
+Added Pin To Net: NetName=NetLED26_2 Pin=LED29-4
+Added Net: Name=NetLED26_2
+Added Pin To Net: NetName=NetLED27_2 Pin=LED27-2
+Added Pin To Net: NetName=NetLED27_2 Pin=LED30-4
+Added Net: Name=NetLED27_2
+Added Pin To Net: NetName=NetLED27_4 Pin=LED27-4
+Added Pin To Net: NetName=NetLED27_4 Pin=LED29-2
+Added Net: Name=NetLED27_4
+Added Pin To Net: NetName=NetLED28_4 Pin=LED28-4
+Added Pin To Net: NetName=NetLED28_4 Pin=LED30-2
+Added Net: Name=NetLED28_4
+Added Pin To Net: NetName=NetLED31_2 Pin=LED31-2
+Added Pin To Net: NetName=NetLED31_2 Pin=LED33-4
+Added Net: Name=NetLED31_2
+Added Pin To Net: NetName=NetLED32_2 Pin=LED32-2
+Added Pin To Net: NetName=NetLED32_2 Pin=LED34-4
+Added Net: Name=NetLED32_2
+Added Pin To Net: NetName=NetLED32_4 Pin=LED32-4
+Added Pin To Net: NetName=NetLED32_4 Pin=LED33-2
+Added Net: Name=NetLED32_4
+Added Pin To Net: NetName=NetLED34_2 Pin=LED34-2
+Added Pin To Net: NetName=NetLED34_2 Pin=LED35-4
+Added Net: Name=NetLED34_2
+Added Pin To Net: NetName=NetLED35_2 Pin=LED35-2
+Added Pin To Net: NetName=NetLED35_2 Pin=LED36-4
+Added Net: Name=NetLED35_2
+Added Pin To Net: NetName=VCC Pin=LED1-1
+Added Pin To Net: NetName=VCC Pin=LED2-1
+Added Pin To Net: NetName=VCC Pin=LED3-1
+Added Pin To Net: NetName=VCC Pin=LED4-1
+Added Pin To Net: NetName=VCC Pin=LED5-1
+Added Pin To Net: NetName=VCC Pin=LED6-1
+Added Pin To Net: NetName=VCC Pin=LED7-1
+Added Pin To Net: NetName=VCC Pin=LED8-1
+Added Pin To Net: NetName=VCC Pin=LED9-1
+Added Pin To Net: NetName=VCC Pin=LED10-1
+Added Pin To Net: NetName=VCC Pin=LED11-1
+Added Pin To Net: NetName=VCC Pin=LED12-1
+Added Pin To Net: NetName=VCC Pin=LED13-1
+Added Pin To Net: NetName=VCC Pin=LED14-1
+Added Pin To Net: NetName=VCC Pin=LED15-1
+Added Pin To Net: NetName=VCC Pin=LED16-1
+Added Pin To Net: NetName=VCC Pin=LED17-1
+Added Pin To Net: NetName=VCC Pin=LED18-1
+Added Pin To Net: NetName=VCC Pin=LED19-1
+Added Pin To Net: NetName=VCC Pin=LED20-1
+Added Pin To Net: NetName=VCC Pin=LED21-1
+Added Pin To Net: NetName=VCC Pin=LED22-1
+Added Pin To Net: NetName=VCC Pin=LED23-1
+Added Pin To Net: NetName=VCC Pin=LED24-1
+Added Pin To Net: NetName=VCC Pin=LED25-1
+Added Pin To Net: NetName=VCC Pin=LED26-1
+Added Pin To Net: NetName=VCC Pin=LED27-1
+Added Pin To Net: NetName=VCC Pin=LED28-1
+Added Pin To Net: NetName=VCC Pin=LED29-1
+Added Pin To Net: NetName=VCC Pin=LED30-1
+Added Pin To Net: NetName=VCC Pin=LED31-1
+Added Pin To Net: NetName=VCC Pin=LED32-1
+Added Pin To Net: NetName=VCC Pin=LED33-1
+Added Pin To Net: NetName=VCC Pin=LED34-1
+Added Pin To Net: NetName=VCC Pin=LED35-1
+Added Pin To Net: NetName=VCC Pin=LED36-1
+Added Pin To Net: NetName=VCC Pin=LED37-1
+Added Net: Name=VCC
+Added Class: Name=WS2812RGB
+Added Room: Name=WS2812RGB

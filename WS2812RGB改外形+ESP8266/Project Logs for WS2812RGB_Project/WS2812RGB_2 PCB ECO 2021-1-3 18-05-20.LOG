@@ -1,0 +1,48 @@
+Removed Pin From Net: NetName=VBUS Pin=C31-1
+Removed Pin From Net: NetName=GND Pin=C31-2
+Removed Pin From Net: NetName=VBUS Pin=C33-1
+Removed Pin From Net: NetName=GND Pin=C33-2
+Removed Pin From Net: NetName=VBUS Pin=C34-1
+Removed Pin From Net: NetName=GND Pin=C34-2
+Removed Pin From Net: NetName=VBUS Pin=C35-1
+Removed Pin From Net: NetName=GND Pin=C35-2
+Removed Pin From Net: NetName=VBUS Pin=C36-1
+Removed Pin From Net: NetName=GND Pin=C36-2
+Removed Pin From Net: NetName=VBUS Pin=C37-1
+Removed Pin From Net: NetName=GND Pin=C37-2
+Removed Member From Class: ClassName=WS2812RGB Member=C50
+Removed Member From Class: ClassName=WS2812RGB Member=C51
+Removed Member From Class: ClassName=WS2812RGB Member=C52
+Removed Member From Class: ClassName=WS2812RGB Member=C53
+Removed Member From Class: ClassName=WS2812RGB Member=C54
+Removed Member From Class: ClassName=WS2812RGB Member=C55
+Change Component Designator: OldDesignator=C32 NewDesignator=C31
+Change Component Designator: OldDesignator=C38 NewDesignator=C32
+Change Component Designator: OldDesignator=C39 NewDesignator=C33
+Change Component Designator: OldDesignator=C40 NewDesignator=C34
+Change Component Designator: OldDesignator=C41 NewDesignator=C35
+Change Component Designator: OldDesignator=C42 NewDesignator=C36
+Change Component Designator: OldDesignator=C43 NewDesignator=C37
+Change Component Designator: OldDesignator=C44 NewDesignator=C38
+Change Component Designator: OldDesignator=C45 NewDesignator=C39
+Change Component Designator: OldDesignator=C46 NewDesignator=C40
+Change Component Designator: OldDesignator=C47 NewDesignator=C41
+Change Component Designator: OldDesignator=C48 NewDesignator=C42
+Change Component Designator: OldDesignator=C49 NewDesignator=C43
+Change Component Designator: OldDesignator=C50 NewDesignator=C44
+Change Component Designator: OldDesignator=C51 NewDesignator=C45
+Change Component Designator: OldDesignator=C52 NewDesignator=C46
+Change Component Designator: OldDesignator=C53 NewDesignator=C47
+Change Component Designator: OldDesignator=C54 NewDesignator=C48
+Change Component Designator: OldDesignator=C55 NewDesignator=C49
+Change Net Name : Old Net Name=NetC38_2 New Net Name=NetC32_2
+Change Net Name : Old Net Name=NetC39_2 New Net Name=NetC33_2
+Change Net Name : Old Net Name=NetC40_2 New Net Name=NetC34_2
+Change Net Name : Old Net Name=NetC43_2 New Net Name=NetC37_2
+Change Net Name : Old Net Name=NetC47_1 New Net Name=NetC41_1
+Change Net Name : Old Net Name=NetC48_1 New Net Name=NetC42_1
+Change Net Name : Old Net Name=NetC48_2 New Net Name=NetC42_2
+Change Net Name : Old Net Name=NetC50_1 New Net Name=NetC44_1
+Change Net Name : Old Net Name=NetC52_2 New Net Name=NetC46_2
+Change Net Name : Old Net Name=NetC53_1 New Net Name=NetC47_1
+Change Net Name : Old Net Name=NetC53_2 New Net Name=NetC47_2

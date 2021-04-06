@@ -1,0 +1,68 @@
+Change Component Designator: OldDesignator=C31 NewDesignator=C33
+Change Component Designator: OldDesignator=C32 NewDesignator=C35
+Change Component Designator: OldDesignator=C33 NewDesignator=C36
+Change Component Designator: OldDesignator=U2 NewDesignator=U3
+Added Component: Designator=C31(CAP_0805)
+Added Component: Designator=C32(CAP_0805)
+Added Component: Designator=C34(CAP_0402)
+Added Component: Designator=J1(Header 1.27X3)
+Added Component: Designator=MIC1(MIC-TH_BD6.0-P1.90-D0.4-L)
+Added Component: Designator=R1(RES_0402)
+Added Component: Designator=R2(RES_0402)
+Added Component: Designator=R3(RES_0402)
+Added Component: Designator=R4(RES_0402)
+Added Component: Designator=SW1(SW-SMD_TS-1086E-16)
+Added Component: Designator=SW2(SW-SMD_4P-L4.2-W3.3-P2.00-LS4.7)
+Added Component: Designator=SW3(SW-SMD_TS-1086E-16)
+Added Component: Designator=U1(SOIC-8_150MIL)
+Added Component: Designator=U2(TSSOP-20_L6.5-W4.4-P0.65-LS6.4-BL)
+Added Pin To Net: NetName=VCC_3.3V Pin=C31-1
+Added Pin To Net: NetName=GND Pin=C31-2
+Added Pin To Net: NetName=VCC_3.3V Pin=C32-1
+Added Pin To Net: NetName=GND Pin=C32-2
+Added Pin To Net: NetName=GND Pin=C34-2
+Added Pin To Net: NetName=GND Pin=J1-3
+Added Pin To Net: NetName=GND Pin=R1-2
+Added Pin To Net: NetName=GND Pin=R2-2
+Added Pin To Net: NetName=GND Pin=R3-1
+Added Pin To Net: NetName=VCC_3.3V Pin=R4-1
+Added Pin To Net: NetName=GND Pin=SW2-3
+Added Pin To Net: NetName=GND Pin=SW2-4
+Added Pin To Net: NetName=VCC_3.3V Pin=U2-5
+Added Pin To Net: NetName=GND Pin=U2-15
+Added Pin To Net: NetName=VCC_3.3V Pin=U2-16
+Change Net Name : Old Net Name=NetC32_1 New Net Name=NetC35_1
+Added Pin To Net: NetName=NetC34_1 Pin=C34-1
+Added Pin To Net: NetName=NetC34_1 Pin=R4-2
+Added Pin To Net: NetName=NetC34_1 Pin=SW2-1
+Added Pin To Net: NetName=NetC34_1 Pin=SW2-2
+Added Pin To Net: NetName=NetC34_1 Pin=U2-4
+Added Net: Name=NetC34_1
+Added Pin To Net: NetName=NetJ1_1 Pin=J1-1
+Added Pin To Net: NetName=NetJ1_1 Pin=U2-20
+Added Net: Name=NetJ1_1
+Added Pin To Net: NetName=NetJ1_2 Pin=J1-2
+Added Pin To Net: NetName=NetJ1_2 Pin=U2-19
+Added Net: Name=NetJ1_2
+Added Pin To Net: NetName=NetR1_1 Pin=R1-1
+Added Pin To Net: NetName=NetR1_1 Pin=U2-3
+Added Net: Name=NetR1_1
+Added Pin To Net: NetName=NetR2_1 Pin=R2-1
+Added Pin To Net: NetName=NetR2_1 Pin=U2-2
+Added Net: Name=NetR2_1
+Added Pin To Net: NetName=NetR3_2 Pin=R3-2
+Added Pin To Net: NetName=NetR3_2 Pin=U2-1
+Added Net: Name=NetR3_2
+Added Member To Class: ClassName=WS2812RGB Member=Component C34 104
+Added Member To Class: ClassName=WS2812RGB Member=Component C35 106
+Added Member To Class: ClassName=WS2812RGB Member=Component C36 104
+Added Member To Class: ClassName=WS2812RGB Member=Component J1 Header
+Added Member To Class: ClassName=WS2812RGB Member=Component MIC1 MIC-GMI6027P-2C44DB
+Added Member To Class: ClassName=WS2812RGB Member=Component R1 10k
+Added Member To Class: ClassName=WS2812RGB Member=Component R2 10k
+Added Member To Class: ClassName=WS2812RGB Member=Component R3 10k
+Added Member To Class: ClassName=WS2812RGB Member=Component R4 10k
+Added Member To Class: ClassName=WS2812RGB Member=Component SW1 TS-1086E-16
+Added Member To Class: ClassName=WS2812RGB Member=Component SW2 TSA343G00-250DZY
+Added Member To Class: ClassName=WS2812RGB Member=Component SW3 TS-1086E-16
+Added Member To Class: ClassName=WS2812RGB Member=Component U3 SGM2028-3.3YN5G/TR

@@ -1,0 +1,47 @@
+Removed Pin From Net: NetName=DIN_1 Pin=LED6-4
+Removed Pin From Net: NetName=DIN_1 Pin=LED11-4
+Removed Pin From Net: NetName=DIN_1 Pin=LED16-4
+Removed Pin From Net: NetName=DIN_1 Pin=LED21-4
+Removed Pin From Net: NetName=DIN_1 Pin=LED26-4
+Removed Pin From Net: NetName=DIN_1 Pin=LED31-4
+Removed Pin From Net: NetName=DIN_1 Pin=LED37-4
+Added Pin To Net: NetName=DIN_2 Pin=LED6-4
+Added Net: Name=DIN_2
+Added Pin To Net: NetName=DIN_3 Pin=LED11-4
+Added Net: Name=DIN_3
+Added Pin To Net: NetName=DIN_4 Pin=LED16-4
+Added Net: Name=DIN_4
+Added Pin To Net: NetName=DIN_5 Pin=LED21-4
+Added Net: Name=DIN_5
+Added Pin To Net: NetName=DIN_6 Pin=LED26-4
+Added Net: Name=DIN_6
+Added Pin To Net: NetName=DIN_7 Pin=LED31-4
+Added Net: Name=DIN_7
+Added Pin To Net: NetName=DIN_8 Pin=LED37-4
+Added Net: Name=DIN_8
+Added Member To Class: ClassName=WS2812RGB Member=Component LED6 RGB_WS2812C
+Added Member To Class: ClassName=WS2812RGB Member=Component LED7 RGB_WS2812C
+Added Member To Class: ClassName=WS2812RGB Member=Component LED8 RGB_WS2812C
+Added Member To Class: ClassName=WS2812RGB Member=Component LED9 RGB_WS2812C
+Added Member To Class: ClassName=WS2812RGB Member=Component LED10 RGB_WS2812C
+Added Member To Class: ClassName=WS2812RGB Member=Component LED11 RGB_WS2812C
+Added Member To Class: ClassName=WS2812RGB Member=Component LED12 RGB_WS2812C
+Added Member To Class: ClassName=WS2812RGB Member=Component LED13 RGB_WS2812C
+Added Member To Class: ClassName=WS2812RGB Member=Component LED14 RGB_WS2812C
+Added Member To Class: ClassName=WS2812RGB Member=Component LED15 RGB_WS2812C
+Added Member To Class: ClassName=WS2812RGB Member=Component LED16 RGB_WS2812C
+Added Member To Class: ClassName=WS2812RGB Member=Component LED17 RGB_WS2812C
+Added Member To Class: ClassName=WS2812RGB Member=Component LED18 RGB_WS2812C
+Added Member To Class: ClassName=WS2812RGB Member=Component LED19 RGB_WS2812C
+Added Member To Class: ClassName=WS2812RGB Member=Component LED20 RGB_WS2812C
+Added Member To Class: ClassName=WS2812RGB Member=Component LED21 RGB_WS2812C
+Added Member To Class: ClassName=WS2812RGB Member=Component LED22 RGB_WS2812C
+Added Member To Class: ClassName=WS2812RGB Member=Component LED23 RGB_WS2812C
+Added Member To Class: ClassName=WS2812RGB Member=Component LED24 RGB_WS2812C
+Added Member To Class: ClassName=WS2812RGB Member=Component LED25 RGB_WS2812C
+Added Member To Class: ClassName=WS2812RGB Member=Component LED26 RGB_WS2812C
+Added Member To Class: ClassName=WS2812RGB Member=Component LED27 RGB_WS2812C
+Added Member To Class: ClassName=WS2812RGB Member=Component LED28 RGB_WS2812C
+Added Member To Class: ClassName=WS2812RGB Member=Component LED29 RGB_WS2812C
+Added Member To Class: ClassName=WS2812RGB Member=Component LED30 RGB_WS2812C
+Added Room: Name=WS2812RGB

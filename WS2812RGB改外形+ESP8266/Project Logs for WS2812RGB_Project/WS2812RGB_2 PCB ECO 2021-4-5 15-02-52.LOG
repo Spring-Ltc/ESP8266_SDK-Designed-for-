@@ -1,0 +1,7 @@
+Removed Pin From Net: NetName=KEY2 Pin=R10-2
+Removed Pin From Net: NetName=GND Pin=SW3-1
+Removed Pin From Net: NetName=KEY2 Pin=SW3-2
+Change Component Comment : Designator=C32 Old Comment=104 New Comment=1uF
+Added Pin To Net: NetName=KEY3 Pin=R10-2
+Added Pin To Net: NetName=KEY3 Pin=SW3-1
+Added Pin To Net: NetName=GND Pin=SW3-2

@@ -1,0 +1,16 @@
+Removed Pin From Net: NetName=VCC Pin=F1-1
+Removed Member From Class: ClassName=WS2812RGB Member=F1
+Added Pin To Net: NetName=VCC Pin=USB1-A9
+Added Pin To Net: NetName=VCC Pin=USB1-B9
+Added Member To Class: ClassName=WS2812RGB Member=Component C17 106
+Added Member To Class: ClassName=WS2812RGB Member=Component C32 104
+Added Member To Class: ClassName=WS2812RGB Member=Component C33 106
+Added Member To Class: ClassName=WS2812RGB Member=Component R1 10k
+Added Member To Class: ClassName=WS2812RGB Member=Component R2 10k
+Added Member To Class: ClassName=WS2812RGB Member=Component R3 470R
+Added Member To Class: ClassName=WS2812RGB Member=Component R4 10k
+Added Member To Class: ClassName=WS2812RGB Member=Component R5 10k
+Added Member To Class: ClassName=WS2812RGB Member=Component R8 4.7k
+Added Member To Class: ClassName=WS2812RGB Member=Component SW3 TS-1086E-16
+Added Member To Class: ClassName=WS2812RGB Member=Component U1 ESP-12F(ESP8266MOD)
+Added Room: Name=WS2812RGB
